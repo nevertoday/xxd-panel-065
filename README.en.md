@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 XXD Panel 065
+# 🦁 XXD Panel 065｜Two-Line Editorial Journal
 
 ### Use black structural lines and two source image color lines to create hand-painted color rhythm
 

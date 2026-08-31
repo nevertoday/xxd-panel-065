@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 XXD Panel 065
+# 🦁 XXD Panel 065｜双线编辑志
 
 ### 用黑色结构线与两种源图彩线制造手绘套色节奏
 
