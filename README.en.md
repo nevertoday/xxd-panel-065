@@ -49,15 +49,16 @@ These four works reuse the corresponding independent sources and are regenerated
 <!-- xxd-human-intro:start -->
 ## Where this Panel fits — and what it solves
 
-When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
+Ordinary line art can describe contours, but it often lacks the rhythm of print. Adding coloured lines at random can just as easily turn into messy ghosting, with colours that bear no relation to the photograph. The real challenge is to preserve structure, a tactile quality, and the tension of a limited palette at the same time.
 
-**Panel 065** is suited to work that must retain the source's essential content while pursuing this visual direction: **Use black structural lines and two source image color lines to create hand-painted color rhythm**. It begins with intended use and desired outcome; layout, size, text, and delivery format follow from those needs.
+**Panel 065** builds an accurate framework with fine black lines, then selects two contrasting line colours from the source image. Slight misregistration, overlaps, and parallel strokes evoke hand-registered colour and the imperfections of old printing, turning the photograph into editorial line art that is restrained, recognisable, and genuinely tactile.
 
 ### Use it when
 
-- **Content must remain anchored:** people, objects, actions, and relationships should not be replaced by an unrelated template.
-- **The image needs stronger expression:** you want a clearer editorial language, artistic treatment, or narrative focus.
-- **Delivery must stay flexible:** one source needs comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
+- **Complex structure must remain legible through linework:** a person's pose, architectural direction, object proportions, and relationships should read at a glance.
+- **You want the rhythm of colour registration, not multicoloured ghosting:** black lines carry the structure, while two colours from the source create warm–cool or light–dark tension.
+- **You like the imperfections of old printing:** misregistration, broken strokes, overshoots, and correction marks should feel authentic and restrained, not like a glitch effect.
+- **You need flexible delivery:** it supports top–bottom and left–right comparisons, design-only output, multiple aspect ratios, four-device wallpaper sets, and batch processing of image folders.
 
 ### A simple way to begin
 
@@ -65,7 +66,7 @@ You do not need to review every option first. Send your Agent an image and say:
 
 > Use XXD Panel 065 on this image and recommend the best layout and size first.
 
-Review the samples below if you want to confirm the visual direction first. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
+Use the samples above to confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference below.
 <!-- xxd-human-intro:end -->
 
 ## Original prompt · Five languages
