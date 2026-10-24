@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 065｜Two-Line Editorial Journal: redraws a few key objects and the main relationship of a photo as a minimal hand-drawn line drawing with a thin, slightly clumsy black pen skeleton plus two coloured lines picked from the photo (usually one warm and one cool, or one dark and one light) that run beside, overlap or slip off the black line like hand-pulled two-colour printing, with no large colour fills, a near-white paper ground with faint fibres, wide whitespace and small, narrow, slightly uneven letterpress-style text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-065 or asks for black-and-two-colour line drawing, off-register line art or letterpress-style editorial sketches from a photo.",
+  "short_description": "双线编辑志：黑色结构线加两种照片彩线，错位叠印出旧印刷般的手绘节奏",
+  "zh-CN": {
+    "name": "双线编辑志",
+    "tagline": "用一根黑线搭骨架，再用照片里的两种颜色画出错位套色的手绘线稿。",
+    "look": "照片只留下几个关键对象和最重要的关系，用纤细、略笨拙的黑色钢笔线画出准确的姿态和结构，线条会抖、会断、会越线。再从照片里挑两种有张力的颜色，通常一冷一暖，画成彩线贴着黑线并行、叠压或轻微错开，像手工套色印刷，不做大面积填色。底色是接近白色的纸面，留白很多。文字是小号、细窄、排得略有歪斜的铅字感字体，可能竖排或贴着线条走。",
+    "traits": ["黑色骨架", "两种源图彩线", "错位叠压", "旧印刷节奏", "微型排版"],
+    "good": [
+      "结构和方向感强的照片：一座桥、楼梯、自行车、街角建筑",
+      "姿态明确的人物或动物：跳跃的人、坐着的狗、正在骑车的人",
+      "有两种对比色的画面：蓝天下的橙色雨衣、绿树旁的红车"
+    ],
+    "poor": [
+      "只靠颜色和光影打动人的照片：日落、夜景光斑、雾气",
+      "需要大面积上色或写实质感的需求：皮肤质感、食物特写",
+      "想要光滑矢量线、技术制图或多色彩线的效果"
+    ]
+  },
+  "en": {
+    "name": "Two-Line Editorial Journal",
+    "tagline": "Draws your photo with a black line skeleton and two photo colours that slip off-register like old two-colour printing.",
+    "look": "Only a few key objects and the main relationship are kept, drawn with thin, slightly clumsy black pen lines that get the pose and structure right while wobbling, breaking and overshooting. Two colours from the photo with some tension between them, usually one warm and one cool, are added as lines that run beside, overlap or slip off the black line like hand-pulled two-colour printing, with no large fills. The ground is near-white paper with plenty of empty space. Text is small, narrow letterpress-style type, slightly uneven, sometimes vertical or following a line.",
+    "traits": ["Black skeleton", "Two photo colours", "Off-register overlap", "Old print rhythm", "Micro typography"],
+    "good": [
+      "Photos with strong structure or direction: a bridge, a staircase, a bicycle, a street-corner building",
+      "People or animals with a clear pose: someone jumping, a sitting dog, a cyclist mid-ride",
+      "Scenes with two contrasting colours: an orange raincoat under blue sky, a red car by green trees"
+    ],
+    "poor": [
+      "Photos that rely only on colour and light: sunsets, night bokeh, fog",
+      "Requests for large colour fills or realistic texture: skin detail, food close-ups",
+      "Looks that need smooth vector lines, technical drawing or many coloured lines"
+    ]
+  },
+  "ja": {
+    "name": "二本線エディトリアル手帳",
+    "tagline": "黒い線で骨組みを描き、写真から取った二色の線を版ずれのように重ねた手描き線画にします。",
+    "look": "写真からはいくつかの大事なものと主な関係だけを残し、細く少し不器用な黒いペン線で姿勢と構造を正しく描きます。線は震え、途切れ、はみ出します。そこへ写真から緊張感のある二色、たいていは暖色と寒色を選び、黒線に沿わせたり重ねたり少しずらしたりして、手刷りの二色刷りのように加えます。広い面の塗りはしません。地はほぼ白の紙で余白が多く、文字は小さく細い活字風の書体で、少し揃わず、縦組みや線に沿った配置もあります。",
+    "traits": ["黒い骨組み", "写真の二色の線", "版ずれの重なり", "古い印刷のリズム", "小さな組版"],
+    "good": [
+      "構造や方向がはっきりした写真：橋、階段、自転車、街角の建物",
+      "姿勢がはっきりした人や動物：跳ぶ人、座る犬、自転車をこぐ人",
+      "対照的な二色がある場面：青空の下のオレンジのレインコート、緑の木のそばの赤い車"
+    ],
+    "poor": [
+      "色と光だけで見せる写真：夕焼け、夜景の玉ボケ、霧",
+      "広い面の塗りや写実的な質感を求める場合：肌の質感、料理のアップ",
+      "なめらかなベクター線、製図のような線、多色の線を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "투 라인 에디토리얼 저널",
+    "tagline": "검은 선으로 뼈대를 세우고, 사진 속 두 가지 색 선을 어긋나게 겹쳐 옛 이색 인쇄 같은 손그림으로 만듭니다.",
+    "look": "사진에서 핵심 대상 몇 개와 주요 관계만 남기고, 가늘고 조금 서툰 검은 펜 선으로 자세와 구조를 정확하게 그립니다. 선은 떨리고 끊기고 넘어가기도 합니다. 여기에 사진에서 서로 긴장감이 있는 두 색, 보통 따뜻한 색과 차가운 색을 골라 검은 선 옆을 나란히 지나거나 겹치거나 살짝 어긋나게 더해, 손으로 찍은 이색 인쇄처럼 만듭니다. 넓은 면은 칠하지 않습니다. 바탕은 거의 흰 종이에 여백이 많고, 글자는 작고 좁은 활판 인쇄풍 서체로 조금 고르지 않으며 세로쓰기나 선을 따라가는 배치도 있습니다.",
+    "traits": ["검은 뼈대", "사진 속 두 색 선", "어긋난 겹침", "옛 인쇄 리듬", "작은 타이포그래피"],
+    "good": [
+      "구조나 방향감이 강한 사진: 다리, 계단, 자전거, 길모퉁이 건물",
+      "자세가 분명한 사람이나 동물: 뛰어오르는 사람, 앉아 있는 개, 자전거 타는 사람",
+      "대비되는 두 색이 있는 장면: 파란 하늘 아래 주황 우비, 초록 나무 옆 빨간 차"
+    ],
+    "poor": [
+      "색과 빛만으로 보여 주는 사진: 노을, 야경 보케, 안개",
+      "넓은 면 채색이나 사실적인 질감을 원하는 경우: 피부 질감, 음식 클로즈업",
+      "매끈한 벡터 선, 기술 도면 같은 선, 여러 색의 선을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر تحريري بخطين",
+    "tagline": "يرسم صورتك بهيكل من الخط الأسود ولونين من الصورة ينزاحان كطباعة قديمة بلونين.",
+    "look": "لا يُبقى من الصورة إلا بضعة عناصر أساسية والعلاقة الرئيسية، تُرسم بخطوط قلم سوداء رفيعة فيها شيء من الخرق، تضبط الوضعية والبنية بدقة مع ارتعاش وتقطّع وتجاوز للحدود. ثم يُختار من الصورة لونان بينهما توتر، غالباً دافئ وبارد، ويُرسمان خطوطاً تجاور الخط الأسود أو تتراكب عليه أو تنزاح عنه قليلاً كطباعة يدوية بلونين، دون تعبئة مساحات كبيرة. الأرضية ورق قريب من الأبيض مع فراغ كثير، والنص بحرف صغير ضيّق يشبه حروف الطباعة القديمة، غير منتظم قليلاً، وقد يأتي عمودياً أو يتبع أحد الخطوط.",
+    "traits": ["هيكل أسود", "لونان من الصورة", "تراكب منزاح", "إيقاع طباعة قديمة", "طباعة دقيقة"],
+    "good": [
+      "صور ذات بنية أو اتجاه قوي: جسر، درج، دراجة، مبنى على ناصية شارع",
+      "أشخاص أو حيوانات بوضعية واضحة: شخص يقفز، كلب جالس، راكب دراجة أثناء السير",
+      "مشاهد فيها لونان متباينان: معطف مطر برتقالي تحت سماء زرقاء، سيارة حمراء قرب أشجار خضراء"
+    ],
+    "poor": [
+      "صور تعتمد على اللون والضوء وحدهما: الغروب، أضواء الليل الضبابية، الضباب",
+      "طلب تعبئة لونية واسعة أو ملمس واقعي: تفاصيل البشرة، لقطات الطعام القريبة",
+      "مظهر يحتاج إلى خطوط متجهية ملساء أو رسم هندسي تقني أو خطوط بألوان كثيرة"
+    ]
+  }
+}
